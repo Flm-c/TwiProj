@@ -1,0 +1,92 @@
+.next {
+    margin-left: 260px;
+}
+
+.sidebar {
+    height: 100%;
+    width: 402px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(255,255,255);
+    overflow-x: hidden;
+    padding-top: 20px;
+    border-right: 1px solid rgba(0, 0, 0, .1);
+}
+
+.sidebar a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 22px;
+    color: #000000;
+    display: block;
+    font-weight: bold;
+}
+
+.sidebar a:hover {
+    color: #1da1f2;
+}
+
+.linkk{
+
+}
+
+.inline{
+    display: inline-block;
+}
+
+.icon{
+    width: 32px;
+    height: 26px;
+    margin-left: 98px;
+    margin-top: 15px;
+}
+
+.sideLogo{
+    width: 26px;
+    height: 24px;
+}
+
+.logoHome{
+    margin-left: 99px;
+    margin-bottom: 12px;
+}
+
+.logoChat{
+    margin-left: 100px;
+    margin-bottom: 10px;
+    margin-right: 2px;
+}
+
+.logoProfile{
+    margin-left: 98px;
+    margin-bottom: 9px;
+}
+
+.lower{
+    padding-top: 25px;
+}
+.halfCircle{
+    width: 196px;
+    height: 49px;
+    background-color: #1da1f2 ;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 90px;
+    margin-top: 90px;
+}
+
+.halfCircle a{
+    color: #ffffff;
+    font-size: 14pt;
+    padding-top: 10px;
+}
+
+.halfCircle a:hover{
+    color: #ffffff;
+}
+
+.halfCircle:hover{
+    background-color: #1a91da;
+}

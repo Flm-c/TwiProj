@@ -1,0 +1,53 @@
+.messages{
+    width: 600px;
+    height: 100%;
+    border: 1px solid rgba(0, 0, 0, .1);
+    position: fixed;
+    top:0px;
+    left: 780px;
+    background-color: #ffffff;
+}
+
+.alert{
+padding-top: 220px;
+
+}
+
+#mess1{
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#mess2{
+    width: 300px;
+    padding-top: 40px;
+    margin-left: 125px;
+    text-align: center;
+}
+
+#mess3{
+    margin-top: 40px;
+    margin-left: 190px;
+    width: 180px;
+    height: 40px;
+    background-color: #1da1f2;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 6px;
+}
+#mess3 a{
+    margin-top: 30px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 12pt;
+    padding-top: 10px;
+}
+
+#mess3 a:hover{
+    color: #ffffff;
+}
+
+#mess3:hover{
+    background-color: #1a91da;
+}

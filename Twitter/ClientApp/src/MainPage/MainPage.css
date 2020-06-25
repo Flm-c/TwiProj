@@ -1,0 +1,40 @@
+.mainPgContent{
+position: absolute;
+    width: 598px;
+    height: 661px;
+    top: 60px;
+    left: 402px;
+    font-size: 12pt;
+    z-index: 0;
+}
+.twitView{
+    width: 100%;
+    border-top: 1px solid rgb(229,229,229);
+    border-bottom: 1px solid rgb(229,229,229);
+    /*padding-top: 10px;*/
+    /*padding-left: 10px;*/
+}
+
+.twitAvatar{
+    width: 55px;
+    height: 55px;
+    background-color: rgb(196,196,196);
+    margin-left: 10px;
+    position: static;
+
+}
+
+.outside{
+    max-width: 523px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.outs1{
+    font-weight: bolder;
+    font-size: 13pt;
+    margin-top: 5px;
+}
+.outs2{
+    margin-top: 17px;
+}

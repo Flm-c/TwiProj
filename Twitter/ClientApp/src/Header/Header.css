@@ -1,0 +1,16 @@
+header{
+    z-index: 1;
+    position: fixed;
+    top:0px;
+    left: 0px;
+    width: 75%;
+    height: 55px;
+    border-bottom: 1px solid rgba(0, 0, 0, .1) ;
+    background-color: #ffffff;
+}
+.headText{
+    padding-left:410px;
+    padding-top: 12px;
+    font-size: 14pt;
+    font-weight: bold;
+}

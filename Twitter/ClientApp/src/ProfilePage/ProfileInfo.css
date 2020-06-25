@@ -1,0 +1,75 @@
+.parent{
+    position: fixed;
+    top:60px;
+    left: 402px;
+    width: 598px;
+    height: 385px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+
+}
+
+.imm {
+    width: 598px;
+    height: 200px;
+    background-color: rebeccapurple;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    text-align: center;
+    padding-top:80px ;
+    color:#ffffff;
+}
+
+.circleimg{
+width: 100px;
+    height: 100px;
+    background-color: #e7ecf0;
+    padding-top: 10px;
+    position: relative;
+    top:-50px;
+    left: 15px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+.changeProf{
+    width: 150px;
+    height: 35px;
+    position: relative;
+    top:-80px;
+    left: 400px;
+    border: 1px solid #1da1f2;
+    border-radius: 20px;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #1da1f2;
+    text-align: center;
+    padding-top: 6px;
+}
+
+.inlinee{
+    display: inline-block;
+}
+
+.info{
+    position: relative;
+    left: 20px;
+    top: -70px;
+    font-weight: bold;
+    font-size: 16pt;
+}
+
+#taq{
+    font-weight: lighter;
+    font-size: 10pt;
+    color: rgb(196,196,196);
+}
+
+.followers{
+    position: relative;
+    left: 20px;
+    top:-50px;
+    font-size: 10pt;
+    font-weight: bold;
+}
+.foll{
+    font-weight: lighter;
+}
